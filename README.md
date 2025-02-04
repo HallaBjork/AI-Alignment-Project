@@ -11,7 +11,7 @@ ___
 
 **Disclaimer:** ****The views and opinions expressed in this project are solely my own and do not reflect those of my employer, colleagues, or any other individuals or organizations. This project is a personal endeavor and is not affiliated with or endorsed by any other entity.****
 
-Please check out the project post: [https://hallabjork.github.io/AI-Alignment-Project/](https://docs.google.com/document/d/1ae-HL1gGZNwrC1Svuv86_acifYYvGq0-5a2uKt6r8zc/edit?tab=t.0)
+Please check out the project post: [https://hallabjork.github.io/AI-Alignment-Project/](https://hallabjork.github.io/AI-Alignment-Project/2025/02/04/when-ai-plays-pretend.html)
 
 This is a link to the experiement result: https://docs.google.com/spreadsheets/d/1I8d-OkihyLmMhizLTOnYtXXJ8-UkX1gmYBGla-yPVgI/edit?gid=157145675#gid=157145675
 
