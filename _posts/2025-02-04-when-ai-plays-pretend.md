@@ -13,7 +13,8 @@ Children's "creative misuse" of AI (e.g., "Teach me to hack TikTok\!") reveals v
 
 This research project was undertaken as part of the [AI Safety Fundamentals](https://aisafetyfundamentals.com/) course on AI alignment, offered by BlueDot Impact. Please keep in mind that the explanations provided here are intended as preliminary insights and, for the sake of clarity, may not fully capture the complexities inherent in aligning AI systems. The project's repository is available [here](https://github.com/HallaBjork/AI-Alignment-Project). 
 
-| *Disclaimer*: The views and opinions expressed in this project are solely my own and do not reflect those of my employer, colleagues, or any other individuals or organisations. This project is a personal endeavor and is not affiliated with or endorsed by any other entity.
+| *Disclaimer*: The views and opinions expressed in this project are solely my own and do not reflect those of my employer, colleagues, or any other individuals or organisations. This project is a personal endeavor and is not affiliated with or endorsed by any other entity.|
+| :---- |
 
 > *Disclaimer*: The views and opinions expressed in this project are solely my own and do not reflect those of my employer, colleagues, or any other individuals or organisations. This project is a personal endeavor and is not affiliated with or endorsed by any other entity.
 
