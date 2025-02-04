@@ -212,7 +212,7 @@ This chapter explores how parents can be empowered to confidently navigate the e
 
 &nbsp;
 
-![Screenshot](https://raw.githubusercontent.com/HallaBjork/AI-Alignment-Project/main/docs/parent-friendly-solution.jpg)
+![Screenshot](https://raw.githubusercontent.com/HallaBjork/AI-Alignment-Project/main/docs/parent-friendly-solution2.jpg)
 
 &nbsp;
 
