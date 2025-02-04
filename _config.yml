@@ -1,4 +1,4 @@
-title: "Alignment Blog"
+title: "The AAI lignment Project"
 author: "Halla Bjork Kristjansdottir"
 description: "For the AI Safety Fondimentals´AI Alignment Course." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -20,7 +20,7 @@ linkedin_username: "https://www.linkedin.com/in/halla-bjork/"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
