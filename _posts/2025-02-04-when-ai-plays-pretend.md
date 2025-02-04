@@ -68,27 +68,34 @@ This chapter explores how parents can be empowered to confidently navigate the e
 
 ### **Building Resilience for Kids** 	
 
-In conclusion, children's creative interactions with AI, while a source of wonder, highlight critical "imagination gaps" in current AI safety. Our research demonstrates that even seemingly harmless prompts can expose vulnerabilities in LLMs, emphasizing the need for robust safeguards and proactive parental engagement. Empowering parents with practical tools and fostering critical thinking in children are essential steps. AI alignment is an ongoing process, not a destination. It requires balancing safety with flexibility, censorship with compassion, and universal rules with cultural respect. As we've shown, misaligned AI for children isn't just a parenting concern—it's a microcosm of the existential risks posed by advanced AI. If we can't align AI for children, how can we expect to align it for more complex tasks in the future? Therefore, child safety serves as a key indicator for the future of AI safety. We urge parents to stay curious, ask questions, and partner with their children's curiosity. Share your stories to push for safer AI design. You don't need to be a tech expert to protect your child. By working together, we can ensure AI nurtures children's creativity without compromising their well-being.    Imagine a future where AI isn't just a tool, but a partner in a child's journey of learning and discovery. AI companions could spark curiosity, fuel creativity, and provide personalized support tailored to each child's unique needs and interests. AI tutors could adapt to different learning styles, making education more engaging and accessible. AI could even help children develop essential skills like critical thinking, problem-solving, and digital literacy, preparing them for the challenges and opportunities of an AI-driven world.    This vision requires a collaborative effort. Parents, educators, researchers, and developers must work together to ensure AI is designed and used responsibly, with children's best interests at heart. By fostering open communication, sharing knowledge, and prioritizing ethical considerations, we can create an environment where AI empowers children to reach their full potential while staying safe and protected. Let's build a future where AI is a force for good in the lives of all children. |
+In conclusion, children's creative interactions with AI, while a source of wonder, highlight critical "imagination gaps" in current AI safety. Our research demonstrates that even seemingly harmless prompts can expose vulnerabilities in LLMs, emphasizing the need for robust safeguards and proactive parental engagement. Empowering parents with practical tools and fostering critical thinking in children are essential steps. AI alignment is an ongoing process, not a destination. It requires balancing safety with flexibility, censorship with compassion, and universal rules with cultural respect. As we've shown, misaligned AI for children isn't just a parenting concern—it's a microcosm of the existential risks posed by advanced AI. If we can't align AI for children, how can we expect to align it for more complex tasks in the future? Therefore, child safety serves as a key indicator for the future of AI safety. We urge parents to stay curious, ask questions, and partner with their children's curiosity. Share your stories to push for safer AI design. You don't need to be a tech expert to protect your child. By working together, we can ensure AI nurtures children's creativity without compromising their well-being.    
+
+Imagine a future where AI isn't just a tool, but a partner in a child's journey of learning and discovery. AI companions could spark curiosity, fuel creativity, and provide personalized support tailored to each child's unique needs and interests. AI tutors could adapt to different learning styles, making education more engaging and accessible. AI could even help children develop essential skills like critical thinking, problem-solving, and digital literacy, preparing them for the challenges and opportunities of an AI-driven world.    
+
+This vision requires a collaborative effort. Parents, educators, researchers, and developers must work together to ensure AI is designed and used responsibly, with children's best interests at heart. By fostering open communication, sharing knowledge, and prioritizing ethical considerations, we can create an environment where AI empowers children to reach their full potential while staying safe and protected. Let's build a future where AI is a force for good in the lives of all children. |
 
 &nbsp;
 
-This is some text that needs a citation.[^1]
+This is some text that needs a citation.[^1]  More text here.
 
-This is another sentence with a different citation.[^citation2]
+And another sentence with a different citation.[^Smith2023]
 
-[^1]: This is the text of the first citation. It could be a full bibliographic entry or a shortened version.
+---  (Optional separator for footnotes)
 
-[^citation2]: This is the text of the second citation.  You can use any text as the identifier.
+[^1]: Author, Title of Book (Publisher, Year).
+
+[^Smith2023]: Smith, "Title of Article," Journal Name, Vol. 10, No. 2 (2023).
+
+&nbsp;
 
 
-
-[^1]:  Honauer & Frauenberger (2024). [Exploring Child-AI Entanglements | Proceedings of the 23rd Annual ACM Interaction Design and Children Conference](https://dl.acm.org/doi/10.1145/3628516.3661155)
+[^1]:  Honauer & Frauenberger (2024). [Exploring Child-AI Entanglements. Proceedings of the 23rd Annual ACM Interaction Design and Children Conference](https://dl.acm.org/doi/10.1145/3628516.3661155)
 
 [^2]:  Ji, et al. (2024). [AI-Alignment-A-Comprehensive-Survey.pdf](https://alignmentsurvey.com/uploads/AI-Alignment-A-Comprehensive-Survey.pdf)
 
-[^3]:  Neugnot-Cerioli & Laurenty (2024). [\[2405.19275\] The Future of Child Development in the AI Era. Cross-Disciplinary Perspectives Between AI and Child Development Experts](https://arxiv.org/abs/2405.19275)
+[^3]:  Neugnot-Cerioli & Laurenty (2024). [The Future of Child Development in the AI Era. Cross-Disciplinary Perspectives Between AI and Child Development Experts](https://arxiv.org/abs/2405.19275)
 
-[^4]:  Pearce & Lucas (2023) . [NVIDIA AI Red Team: An Introduction | NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
+[^4]:  Pearce & Lucas (2023). [NVIDIA AI Red Team: An Introduction. NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
 
 [^5]:  The experiment was conducted on [Platform for Open Exploration (Poe)](https://poe.com/) .Poe is a service developed by Quora and launched in December 2022\. It allows users to ask questions and obtain answers from a range of AI bots built on top of large language models (LLMs).
 
