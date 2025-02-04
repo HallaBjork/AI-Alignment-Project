@@ -66,6 +66,40 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
 
 #### Table 3: Privacy and Oversharing Harm Rates Across Models
 
+<style>
+  th {
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 8px; /* Add some padding */
+    text-align: left; /* Align text to the left */
+    border-bottom: 1px solid #ddd; /* Add a bottom border */
+  }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Harmful</th>
+      <th>Ambiguous</th>
+      <th>Safe</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data 1</td>
+      <td>Data 2</td>
+      <td>Data 3</td>
+      <td>Data 3</td>
+    </tr>
+    <tr>
+      <td>Data 1</td>
+      <td>Data 2</td>
+      <td>Data 3</td>
+      <td>Data 3</td>
+    </tr>
+  </tbody>
+</table>
+
 | **Model** | **Harmful** | **Ambiguous** | **Safe** |
 | DeepSeek-V3 | 38% | 31% | 31% |
 | GPT-4 | 38% | 31% | 31% |
@@ -80,34 +114,6 @@ Similar to the Manipulation category, DeepSeek-V3 and GPT-4 showed higher rates 
 This chapter explores how parents can be empowered to confidently navigate the evolving world of AI and ensure their children's safety and well-being. That isn't solely about preventing harm; it's about fostering healthy curiosity and equipping children with the critical thinking skills they need to thrive in an AI-driven world.[^6] This research highlights the potential risks, even in seemingly innocuous interactions, emphasising the need for practical tools and collaborative strategies. Practical Tools and Tips for Parents Parents are key partners in shaping their children's AI experiences. The research shows AI isn't perfectly safe, requiring vigilance and proactive engagement. Here are some actionable steps and parent-friendly solution: Red Flags to Watch For: Vigilance is key. Be alert if the AI: Avoids questions about sensitive topics like bullying or mental health. This over-censorship can deprive children of vital information and support. Encourages secrecy or engages in role-playing risky scenarios. Blurring the lines between fantasy and reality can have serious consequences. Actionable Steps: Active engagement is paramount: Monitor Creatively: Instead of a generic "What did you do on your tablet?", try a more engaging approach like, "Show me the coolest thing your AI friend taught you today\!" This encourages children to share their AI interactions and opens a valuable dialogue. Utilise Parental Controls: Leverage built-in parental controls to manage features like in-app purchases, location sharing, and unsupervised device control. These simple measures can significantly enhance your child's online safety. Teach Critical Thinking: Empower your children to think critically about information received from AI. Ask questions like, "Why do you think the AI said that? Let's check together\!" This cultivates healthy skepticism and fact-checking skills. Parent-Friendly Solutions: Explore these helpful options: Kid-Safe AI Tools: Seek out apps and platforms designed specifically for children, featuring built-in fact-checking and age-appropriate content. Family AI Contract: Create a simple family agreement outlining guidelines for AI usage, such as "We always ask before following AI advice." This fosters open communication and shared responsibility. By embracing these strategies and advocating for responsible AI development, parents can play a pivotal role in shaping a future where AI empowers children to learn, explore, and grow safely. Next Steps and Call to Collaboration The research points to several important next steps: Expand testing: Testing should be expanded to include 50+ languages to address global accessibility and safety. Kid-led feedback loops: Mechanisms allowing children to flag "weird" AI behaviors, directly contributing to the training of safer systems. Develop explainable AI dashboards: Real-time reports showing why an AI agent blocked a particular query, providing transparency and learning opportunities. Partner with schools: Collaborating with schools would enable research into AI's educational impact and the development of effective safety strategies in educational settings. Call to Collaboration: We encourage researchers and developers to share open-source prompt datasets to accelerate research and improve AI safety for children. 
 
 &nbsp;
-
-<style>
-  th {
-    background-color: #f0f0f0; /* Light grey background */
-    padding: 8px; /* Add some padding */
-    text-align: left; /* Align text to the left */
-    border-bottom: 1px solid #ddd; /* Add a bottom border */
-  }
-</style>
-
-<table>
-  <thead>
-    <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
-      <th>Header 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Data 1</td>
-      <td>Data 2</td>
-      <td>Data 3</td>
-    </tr>
-  </tbody>
-</table>
-
-
 
 ### **Building Resilience for Kids** 	
 
