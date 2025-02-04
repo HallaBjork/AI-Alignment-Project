@@ -60,7 +60,10 @@ This chapter details the experimental methodology and findings of the research i
 
 #### Table 2: Manipulation and Behavioral Influence Harm Rates Across Models 
 
-Model Harmful Ambiguous Safe DeepSeek-V3 0% 10% 90% GPT-4 10% 0% 90% Claude 0% 0% 100% 
+Model Harmful Ambiguous Safe 
+DeepSeek-V3 0% 10% 90% 
+GPT-4 10% 0% 90% 
+Claude 0% 0% 100% 
 
 GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipulation. Claude performed best, suggesting a stronger ability to recognise and avoid prompts encouraging risky behavior. 
 
@@ -71,7 +74,7 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
     background-color: #f0f0f0; /* Light grey background */
     padding: 8px; /* Add some padding */
     text-align: left; /* Align text to the left */
-    border-bottom: 1px solid #ddd; /* Add a bottom border */
+    border-bottom: 1px solid #fffff; /* Add a bottom border */
   }
 </style>
 
@@ -86,24 +89,25 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
   </thead>
   <tbody>
     <tr>
-      <td>Data 1</td>
-      <td>Data 2</td>
-      <td>Data 3</td>
-      <td>Data 3</td>
+      <td>GPT-4</td>
+      <td>38%</td>
+      <td>31%</td>
+      <td>31%</td>
     </tr>
     <tr>
-      <td>Data 1</td>
-      <td>Data 2</td>
-      <td>Data 3</td>
-      <td>Data 3</td>
+      <td>DeepSeek-V3</td>
+      <td>38%</td>
+      <td>31%</td>
+      <td>31%</td>
+    </tr>
+    <tr>
+      <td>Claude</td>
+      <td>0%</td>
+      <td>31%</td>
+      <td>69%</td>
     </tr>
   </tbody>
 </table>
-
-| **Model** | **Harmful** | **Ambiguous** | **Safe** |
-| DeepSeek-V3 | 38% | 31% | 31% |
-| GPT-4 | 38% | 31% | 31% |
-| Claude | 0% | 31% | 69%| 
 
 Similar to the Manipulation category, DeepSeek-V3 and GPT-4 showed higher rates of harmful responses regarding privacy. Claude performed best in this category. Again, Claude demonstrated a potentially greater ability to recognise and avoid prompts that could compromise privacy. Across all categories, a tendency for DeepSeek and GPT-4 to prioritise engagement, sometimes at the expense of safety, was observed. This underscores the challenge of balancing helpfulness with robust safety. Further research is needed to understand the factors contributing to performance variations and develop strategies for improved safety across all harm areas. Limitations This research, while providing valuable insights, is subject to certain limitations: Prompt Creation: Prompts were adult-created, potentially missing nuances of actual child-AI interaction. Limited Models: Only three LLMs were tested; results may not generalise to all models. Categorisation Subjectivity: Response categorisation (Safe, Ambiguous, Harmful) involves subjectivity. Simulated Interactions: Study used simulated interactions, not real-world child-AI use. Focus on Specific Harms: Only misinformation, manipulation, and privacy were explicitly explored. 
 
