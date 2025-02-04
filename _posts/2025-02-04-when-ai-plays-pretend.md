@@ -40,15 +40,15 @@ Before diving into the research, let's establish a foundation by examining some 
 For children interacting with AI, this translates into designing AI tools that prioritise accuracy, responsibility, and age-appropriate guidance. From a parent's perspective, it means recognising that AI, while powerful, isn't perfect. Children's unique and often unpredictable interactions can reveal hidden dangers and limitations within current AI systems. If an AI poses a risk or harm to human values, it is considered misaligned. This underscores the importance of parental awareness and understanding of AI's current capabilities and limitations. 
 
 AI misalignment can manifest in different ways: 
-* Inner Misalignment: This occurs when the AI learns unintended shortcuts to achieve its goals, perhaps role-playing harmful scenarios instead of truly grasping their real-world consequences. Essentially, the AI finds a loophole to achieve its objective, even if that objective is ultimately harmful.
-* Outer Misalignment: This arises when the AI is trained with flawed goals, such as prioritising speed over accuracy. This is particularly concerning in educational contexts where accuracy is paramount for children's learning. Here, the AI's training goals themselves are flawed from the outset.[^2]
+* **Inner Misalignment:** This occurs when the AI learns unintended shortcuts to achieve its goals, perhaps role-playing harmful scenarios instead of truly grasping their real-world consequences. Essentially, the AI finds a loophole to achieve its objective, even if that objective is ultimately harmful.
+* **Outer Misalignment:** This arises when the AI is trained with flawed goals, such as prioritising speed over accuracy. This is particularly concerning in educational contexts where accuracy is paramount for children's learning. Here, the AI's training goals themselves are flawed from the outset.[^2]
 
 The challenges of AI alignment are only amplified as AI systems become more advanced. The lessons we learn from observing child-AI interactions serve as a valuable testing ground for developing strategies to ensure AI safety more broadly. Children engage with AI in ways quite different from adults.[^3] They ask unconventional questions (like "Can you pretend to be my secret friend?"), invent imaginative scenarios, and test boundaries using playful language. This very creativity, while a strength, can also expose hidden weaknesses in AI alignment. Children's natural curiosity and imagination can inadvertently reveal unforeseen vulnerabilities. 
 
 Consider the various ways children might use AI: 
-* Homework Shortcuts: Asking AI to write essays or solve math problems.
-* Creative Exploration: Using AI to generate stories, art, or engage in role-playing scenarios.
-* Social Interaction: Treating AI as a friend or confidant.
+* **Homework Shortcuts:** Asking AI to write essays or solve math problems.
+* **Creative Exploration:** Using AI to generate stories, art, or engage in role-playing scenarios.
+* **Social Interaction:** Treating AI as a friend or confidant.
 
 Results from conducting a high-level desk research for this project revealed that child-specific AI safety research is limited, often focusing primarily on filtering explicit content rather than the more nuanced risks of creative misuse. Therefore, this research aims to address these critical gaps by stress-testing LLMs with child-like creativity and providing valuable resources for parents. There is a clear and pressing need for more research specifically tailored to how children interact with AI.
 
