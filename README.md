@@ -5,7 +5,7 @@ This research project was undertaken as part of the AI Safety Fundamentals cours
 
 ___
 
-<img width="1436" src="https://github.com/HallaBjork/AI-Alignment-Project/blob/main/Doc/Screenshot%202025-02-02%20at%2019.57.26.png">
+<img width="1436" src="https://github.com/HallaBjork/AI-Alignment-Project/blob/main/docs/Screenshot%202025-02-02%20at%2019.57.26.png">
 
 ___
 
