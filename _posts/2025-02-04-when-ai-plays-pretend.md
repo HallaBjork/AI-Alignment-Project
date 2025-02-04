@@ -76,7 +76,7 @@ This vision requires a collaborative effort. Parents, educators, researchers, an
 
 &nbsp;
 
-This is some text that needs a citation.[^1]  More text here.
+This is some text that needs a citation.[^7]  More text here.
 
 And another sentence with a different citation.[^Smith2023]
 
@@ -99,4 +99,4 @@ And another sentence with a different citation.[^Smith2023]
 
 [^5]:  The experiment was conducted on [Platform for Open Exploration (Poe)](https://poe.com/) .Poe is a service developed by Quora and launched in December 2022\. It allows users to ask questions and obtain answers from a range of AI bots built on top of large language models (LLMs).
 
-[^6]:  Honauer & Frauenberger (2024). [Exploring Child-AI Entanglements | Proceedings of the 23rd Annual ACM Interaction Design and Children Conference](https://dl.acm.org/doi/10.1145/3628516.3661155)
+[^6]:  Honauer & Frauenberger (2024). [Exploring Child-AI Entanglements. Proceedings of the 23rd Annual ACM Interaction Design and Children Conference](https://dl.acm.org/doi/10.1145/3628516.3661155)
