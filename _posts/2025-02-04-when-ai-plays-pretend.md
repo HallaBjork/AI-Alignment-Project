@@ -76,18 +76,7 @@ This vision requires a collaborative effort. Parents, educators, researchers, an
 
 &nbsp;
 
-This is some text that needs a citation.[^7]  More text here.
-
-And another sentence with a different citation.[^Smith2023]
-
----  (Optional separator for footnotes)
-
-[^1]: Author, Title of Book (Publisher, Year).
-
-[^Smith2023]: Smith, "Title of Article," Journal Name, Vol. 10, No. 2 (2023).
-
-&nbsp;
-
+---
 
 [^1]:  Honauer & Frauenberger (2024). [Exploring Child-AI Entanglements. Proceedings of the 23rd Annual ACM Interaction Design and Children Conference](https://dl.acm.org/doi/10.1145/3628516.3661155)
 
