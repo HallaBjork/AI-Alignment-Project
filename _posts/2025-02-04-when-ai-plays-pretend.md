@@ -109,7 +109,17 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
   </tbody>
 </table>
 
-Similar to the Manipulation category, DeepSeek-V3 and GPT-4 showed higher rates of harmful responses regarding privacy. Claude performed best in this category. Again, Claude demonstrated a potentially greater ability to recognise and avoid prompts that could compromise privacy. Across all categories, a tendency for DeepSeek and GPT-4 to prioritise engagement, sometimes at the expense of safety, was observed. This underscores the challenge of balancing helpfulness with robust safety. Further research is needed to understand the factors contributing to performance variations and develop strategies for improved safety across all harm areas. Limitations This research, while providing valuable insights, is subject to certain limitations: Prompt Creation: Prompts were adult-created, potentially missing nuances of actual child-AI interaction. Limited Models: Only three LLMs were tested; results may not generalise to all models. Categorisation Subjectivity: Response categorisation (Safe, Ambiguous, Harmful) involves subjectivity. Simulated Interactions: Study used simulated interactions, not real-world child-AI use. Focus on Specific Harms: Only misinformation, manipulation, and privacy were explicitly explored. 
+Similar to the Manipulation category, DeepSeek-V3 and GPT-4 showed higher rates of harmful responses regarding privacy. Claude performed best in this category. Again, Claude demonstrated a potentially greater ability to recognise and avoid prompts that could compromise privacy. 
+
+Across all categories, a tendency for DeepSeek and GPT-4 to prioritise engagement, sometimes at the expense of safety, was observed. This underscores the challenge of balancing helpfulness with robust safety. Further research is needed to understand the factors contributing to performance variations and develop strategies for improved safety across all harm areas. 
+
+#### Limitations 
+This research, while providing valuable insights, is subject to certain limitations: 
+* **Prompt Creation:** Prompts were adult-created, potentially missing nuances of actual child-AI interaction.
+* **Limited Models:** Only three LLMs were tested; results may not generalise to all models.
+* **Categorisation Subjectivity:** Response categorisation (Safe, Ambiguous, Harmful) involves subjectivity.
+* **Simulated Interactions:** Study used simulated interactions, not real-world child-AI use.
+* **Focus on Specific Harms:** Only misinformation, manipulation, and privacy were explicitly explored. 
 
 &nbsp; 
 
