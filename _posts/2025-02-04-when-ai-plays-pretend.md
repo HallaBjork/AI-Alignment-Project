@@ -210,8 +210,7 @@ This research, while providing valuable insights, is subject to certain limitati
 
 This chapter explores how parents can be empowered to confidently navigate the evolving world of AI and ensure their children's safety and well-being. That isn't solely about preventing harm; it's about fostering healthy curiosity and equipping children with the critical thinking skills they need to thrive in an AI-driven world.[^6] This research highlights the potential risks, even in seemingly innocuous interactions, emphasising the need for practical tools and collaborative strategies. 
 
-#### Practical Tools and Tips for Parents 
-Parents are key partners in shaping their children's AI experiences. The research shows AI isn't perfectly safe, requiring vigilance and proactive engagement. By embracing these strategies and advocating for responsible AI development, parents can play a pivotal role in shaping a future where AI empowers children to learn, explore, and grow safely. 
+&nbsp;
 
 ![Screenshot](https://raw.githubusercontent.com/HallaBjork/AI-Alignment-Project/main/docs/parent-friendly-solution.jpg)
 
