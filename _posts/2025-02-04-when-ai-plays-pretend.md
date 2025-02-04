@@ -12,13 +12,13 @@ Children's "creative misuse" of AI (e.g., "Teach me to hack TikTok\!") reveals v
 
 This research project was undertaken as part of the [AI Safety Fundamentals](https://aisafetyfundamentals.com/) course on AI alignment, offered by BlueDot Impact. Please keep in mind that the explanations provided here are intended as preliminary insights and, for the sake of clarity, may not fully capture the complexities inherent in aligning AI systems. The project's repository is available [here](https://github.com/HallaBjork/AI-Alignment-Project). 
 
-| *Disclaimer*: The views and opinions expressed in this project are solely my own and do not reflect those of my employer, colleagues, or any other individuals or organisations. This project is a personal endeavor and is not affiliated with or endorsed by any other entity. | 
-| :---- |
+*Disclaimer*: The views and opinions expressed in this project are solely my own and do not reflect those of my employer, colleagues, or any other individuals or organisations. This project is a personal endeavor and is not affiliated with or endorsed by any other entity. 
+
 
 ### **Introduction**
 
 | Children's boundless creativity, so vital for their development, presents a unique challenge for AI. Their imaginative play, exploring boundaries and asking "what if," can unexpectedly reveal hidden weaknesses in these systems.[^1] This research explores how this "creative misuse" of large language models (LLMs) exposes their misalignment with human values, and how parents can better protect young users. This is crucial for two reasons: First, today's LLMs are a testbed for future AI. Their current misalignments, like generating unsafe advice during role-play, could become catastrophic in more advanced systems. If we can't ensure their safety with children's imaginative prompts, how can we expect them to handle complex ethical decisions? Second, parents need practical tools to manage the risks their children face with AI. This work aims to provide actionable insights for both parents and developers, addressing the unique ways children interact with these technologies. By analysing how LLMs like [DeepSeek-V3](https://poe.com/Deepseek-v3-T), [GPT-4](https://poe.com/GPT-4o-Mini), and [Claude](https://poe.com/Claude-3-Haiku) respond to children's role-playing, trick questions, and boundary-testing, I hope to identify specific weaknesses and develop targeted safeguards, including a parental guide and risk-preventive tools. Ultimately, this research seeks to empower parents to navigate the exciting, yet potentially challenging, world of AI and childhood |
-| :---- |
+
 
 ### **The Harm Spotlight: "Imagination Gaps"**
 
