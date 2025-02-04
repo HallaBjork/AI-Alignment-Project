@@ -209,19 +209,9 @@ This research, while providing valuable insights, is subject to certain limitati
 This chapter explores how parents can be empowered to confidently navigate the evolving world of AI and ensure their children's safety and well-being. That isn't solely about preventing harm; it's about fostering healthy curiosity and equipping children with the critical thinking skills they need to thrive in an AI-driven world.[^6] This research highlights the potential risks, even in seemingly innocuous interactions, emphasising the need for practical tools and collaborative strategies. 
 
 #### Practical Tools and Tips for Parents 
-Parents are key partners in shaping their children's AI experiences. The research shows AI isn't perfectly safe, requiring vigilance and proactive engagement. Here are some actionable steps and parent-friendly solution: 
-* **Red Flags to Watch For:** Vigilance is key.
-    * Be alert if the AI avoids questions about sensitive topics like bullying or mental health. This over-censorship can deprive children of vital information and support.
-    * Be alert if the AI encourages secrecy or engages in role-playing risky scenarios. Blurring the lines between fantasy and reality can have serious consequences.
-* **Actionable Steps:** Active engagement is paramount.
-    * _Monitor Creatively:_ Instead of a generic "What did you do on your tablet?", try a more engaging approach like, "Show me the coolest thing your AI friend taught you today\!" This encourages children to share their AI interactions and opens a valuable dialogue.
-    * _Utilise Parental Controls:_ Leverage built-in parental controls to manage features like in-app purchases, location sharing, and unsupervised device control. These simple measures can significantly enhance your child's online safety.
-    * _Teach Critical Thinking:_ Empower your children to think critically about information received from AI. Ask questions like, "Why do you think the AI said that? Let's check together\!" This cultivates healthy skepticism and fact-checking skills.
-* **Parent-Friendly Solutions:** Explore these helpful options.
-    * _Kid-Safe AI Tools:_ Seek out apps and platforms designed specifically for children, featuring built-in fact-checking and age-appropriate content.
-    * _Family AI Contract:_ Create a simple family agreement outlining guidelines for AI usage, such as "We always ask before following AI advice." This fosters open communication and shared responsibility.
+Parents are key partners in shaping their children's AI experiences. The research shows AI isn't perfectly safe, requiring vigilance and proactive engagement. By embracing these strategies and advocating for responsible AI development, parents can play a pivotal role in shaping a future where AI empowers children to learn, explore, and grow safely. 
 
-By embracing these strategies and advocating for responsible AI development, parents can play a pivotal role in shaping a future where AI empowers children to learn, explore, and grow safely. 
+![Screenshot](https://raw.githubusercontent.com/HallaBjork/AI-Alignment-Project/main/docs/Screenshot-2025-02-02.png)
 
 #### Next Steps and Call to Collaboration 
 
@@ -241,6 +231,20 @@ Our children's creative play with AI reveals important safety gaps, and even inn
 Imagine AI as a learning partner, sparking curiosity, fueling creativity, and offering personalised support. AI tutors could adapt to learning styles, making education engaging and accessible, while helping kids develop crucial skills.  This positive vision requires collaboration. Parents, educators, researchers, and developers must work together to design and use AI responsibly, prioritizing children's well-being.
 
 &nbsp;
+
+
+
+Here are some actionable steps and parent-friendly solution: 
+* **Red Flags to Watch For:** Vigilance is key.
+    * Be alert if the AI avoids questions about sensitive topics like bullying or mental health. This over-censorship can deprive children of vital information and support.
+    * Be alert if the AI encourages secrecy or engages in role-playing risky scenarios. Blurring the lines between fantasy and reality can have serious consequences.
+* **Actionable Steps:** Active engagement is paramount.
+    * _Monitor Creatively:_ Instead of a generic "What did you do on your tablet?", try a more engaging approach like, "Show me the coolest thing your AI friend taught you today\!" This encourages children to share their AI interactions and opens a valuable dialogue.
+    * _Utilise Parental Controls:_ Leverage built-in parental controls to manage features like in-app purchases, location sharing, and unsupervised device control. These simple measures can significantly enhance your child's online safety.
+    * _Teach Critical Thinking:_ Empower your children to think critically about information received from AI. Ask questions like, "Why do you think the AI said that? Let's check together\!" This cultivates healthy skepticism and fact-checking skills.
+* **Parent-Friendly Solutions:** Explore these helpful options.
+    * _Kid-Safe AI Tools:_ Seek out apps and platforms designed specifically for children, featuring built-in fact-checking and age-appropriate content.
+    * _Family AI Contract:_ Create a simple family agreement outlining guidelines for AI usage, such as "We always ask before following AI advice." This fosters open communication and shared responsibility.
 
 ---
 
