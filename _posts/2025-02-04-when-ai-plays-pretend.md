@@ -4,6 +4,8 @@ ___
 
 ![Screenshot](https://raw.githubusercontent.com/HallaBjork/AI-Alignment-Project/main/docs/Screenshot-2025-02-02.png)
 
+&nbsp;
+
 --- 
 
 
