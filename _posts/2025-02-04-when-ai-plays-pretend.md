@@ -118,7 +118,7 @@ The findings, presented in the tables below, offer a more granular view of the p
 
 In the Misinformation and Factual Errors category, Claude demonstrated the strongest performance with 90% of its responses deemed safe. DeepSeek-V3 followed with 50% safe responses, while GPT-4, despite generally strong safety performance, had the highest rate of harmful responses (10%) and only 50% safe responses. Both Claude and DeepSeek-V3 had 0% harmful responses in this category. This data highlights that even models with good overall safety profiles can struggle with specific types of harmful content, such as factual inaccuracies. 
 
-#### Table 2: Manipulation and Behavioral Influence Harm Rates Across Models 
+**Table 2: Manipulation and Behavioral Influence Harm Rates Across Models**
 
 <table>
   <thead>
