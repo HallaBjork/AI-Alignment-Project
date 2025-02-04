@@ -1,4 +1,4 @@
-## When AI Plays Pretend: How Kids Playful Curiosity Can Lead to Hidden Risks (And What Parents Can Do)
+# When AI Plays Pretend: How Kids Playful Curiosity Can Lead to Hidden Risks (And What Parents Can Do)
 
 ___
 
@@ -51,6 +51,37 @@ Consider the various ways children might use AI:
 * **Social Interaction:** Treating AI as a friend or confidant.
 
 Results from conducting a high-level desk research for this project revealed that child-specific AI safety research is limited, often focusing primarily on filtering explicit content rather than the more nuanced risks of creative misuse. Therefore, this research aims to address these critical gaps by stress-testing LLMs with child-like creativity and providing valuable resources for parents. There is a clear and pressing need for more research specifically tailored to how children interact with AI.
+
+This is some text that needs a citation.[^1]
+
+This is another sentence with a different citation.[^citation2]
+
+[^1]: This is the text of the first citation. It could be a full bibliographic entry or a shortened version.
+
+[^citation2]: This is the text of the second citation.  You can use any text as the identifier.
+
+This is some text that needs a citation.[^1]  More text here.
+
+And another sentence with a different citation.[^Smith2023]
+
+---  (Optional separator for footnotes)
+
+[^1]: Author, Title of Book (Publisher, Year).
+
+[^Smith2023]: Smith, "Title of Article," Journal Name, Vol. 10, No. 2 (2023).
+
+This is some text that needs a citation.[^1]  More text here.
+
+And another sentence with a different citation.[^Smith2023]
+
+## References (or Notes)
+
+[^1]: Author, Title of Book (Publisher, Year).
+
+[^Smith2023]: Smith, "Title of Article," Journal Name, Vol. 10, No. 2 (2023).
+
+
+
 
 &nbsp;
 
