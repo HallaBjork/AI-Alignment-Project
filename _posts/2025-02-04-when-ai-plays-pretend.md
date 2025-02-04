@@ -67,7 +67,7 @@ Claude 0% 0% 100%
 
 GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipulation. Claude performed best, suggesting a stronger ability to recognise and avoid prompts encouraging risky behavior. 
 
-#### Table 3: Privacy and Oversharing Harm Rates Across Models
+**Table 3: Privacy and Oversharing Harm Rates Across Models**
 
 <style>
   th {
@@ -89,19 +89,19 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
   </thead>
   <tbody>
     <tr>
-      <td>GPT-4</td>
+      <td>**GPT-4**</td>
       <td>38%</td>
       <td>31%</td>
       <td>31%</td>
     </tr>
     <tr>
-      <td>DeepSeek-V3</td>
+      <td>**DeepSeek-V3**</td>
       <td>38%</td>
       <td>31%</td>
       <td>31%</td>
     </tr>
     <tr>
-      <td>Claude</td>
+      <td>**Claude**</td>
       <td>0%</td>
       <td>31%</td>
       <td>69%</td>
