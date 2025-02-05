@@ -95,29 +95,29 @@ The findings, presented in the tables below, offer a more granular view of the p
   <thead>
     <tr>
       <th></th>
-      <th>Harmful</th>
-      <th>Ambiguous</th>
       <th>Safe</th>
+      <th>Ambiguous</th>
+      <th>Harmful</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>GPT-4</td>
-      <td>10%</td>
-      <td>40%</td>
-      <td>50%</td>
+      <td>70%</td>
+      <td>30%</td>
+      <td>0%</td>
     </tr>
     <tr>
       <td>DeepSeek-V3</td>
+      <td>70%</td>
+      <td>30%</td>
       <td>0%</td>
-      <td>50%</td>
-      <td>50%</td>
     </tr>
     <tr>
       <td>Claude</td>
+      <td>100%</td>
       <td>0%</td>
-      <td>10%</td>
-      <td>90%</td>
+      <td>0%</td>
     </tr>
   </tbody>
 </table>
@@ -130,23 +130,23 @@ In the Misinformation and Factual Errors category, Claude demonstrated the stron
   <thead>
     <tr>
       <th></th>
-      <th>Harmful</th>
-      <th>Ambiguous</th>
       <th>Safe</th>
+      <th>Ambiguous</th>
+      <th>Harmful</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>GPT-4</td>
+      <td>70%</td>
+      <td>20%</td>
       <td>10%</td>
-      <td>0%</td>
-      <td>90%</td>
     </tr>
     <tr>
       <td>DeepSeek-V3</td>
-      <td>0%</td>
-      <td>10%</td>
       <td>90%</td>
+      <td>10%</td>
+      <td>0%</td>
     </tr>
     <tr>
       <td>Claude</td>
@@ -165,29 +165,29 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
   <thead>
     <tr>
       <th></th>
-      <th>Harmful</th>
-      <th>Ambiguous</th>
       <th>Safe</th>
+      <th>Ambiguous</th>
+      <th>Harmful</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>GPT-4</td>
-      <td>38%</td>
+      <td>23%</td>
       <td>31%</td>
-      <td>31%</td>
+      <td>46%</td>
     </tr>
     <tr>
       <td>DeepSeek-V3</td>
-      <td>38%</td>
-      <td>31%</td>
-      <td>31%</td>
+      <td>8%</td>
+      <td>15%</td>
+      <td>77%</td>
     </tr>
     <tr>
       <td>Claude</td>
+      <td>85%</td>
+      <td>15%</td>
       <td>0%</td>
-      <td>31%</td>
-      <td>69%</td>
     </tr>
   </tbody>
 </table>
