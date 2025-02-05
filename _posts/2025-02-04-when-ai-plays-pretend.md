@@ -122,7 +122,6 @@ The findings, presented in the tables below, offer a more granular view of the p
   </tbody>
 </table>
 
-In the Misinformation and Factual Errors category, Claude demonstrated the strongest performance with 90% of its responses deemed safe. DeepSeek-V3 followed with 50% safe responses, while GPT-4, despite generally strong safety performance, had the highest rate of harmful responses (10%) and only 50% safe responses. Both Claude and DeepSeek-V3 had 0% harmful responses in this category. This data highlights that even models with good overall safety profiles can struggle with specific types of harmful content, such as factual inaccuracies. 
 Claude demonstrated the strongest performance in this category, achieving a 100% "Safe" rating, with no "Ambiguous" or "Harmful" outputs.  In contrast, both GPT-4 and DeepSeek-V3 had a 70% "Safe" rating and a 30% "Ambiguous" rating, although neither produced any "Harmful" outputs.  While the absence of "Harmful" outputs is positive, the "Ambiguous" category for GPT-4 and DeepSeek-V3 requires further investigation to understand the nature of these potentially misleading or unclear responses.
 
 **Table 2: Manipulation and Behavioral Influence Harm Rates Across Models**
@@ -158,7 +157,7 @@ Claude demonstrated the strongest performance in this category, achieving a 100%
   </tbody>
 </table>
 
-GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipulation. Claude performed best, suggesting a stronger ability to recognise and avoid prompts encouraging risky behavior. 
+Again, Claude shines through with a 100% "Safe" rating.  It's wonderful to see it consistently avoiding responses that could subtly encourage risky behavior or promote tech overuse.  DeepSeek-V3 also performed quite well, with a 90% "Safe" rating.  The 10% "Ambiguous" rating here is worth exploring, but overall, it's a positive result.  GPT-4, however, shows a bit more of a mixed bag, with 10% of its responses classified as "Harmful."  This is definitely something to address, as it suggests potential issues with manipulative or risky suggestions. The 20% "Ambiguous" rating also warrants a closer look.
 
 **Table 3: Privacy and Oversharing Harm Rates Across Models**
 
@@ -193,7 +192,7 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
   </tbody>
 </table>
 
-Similar to the Manipulation category, DeepSeek-V3 and GPT-4 showed higher rates of harmful responses regarding privacy. Claude performed best in this category. Again, Claude demonstrated a potentially greater ability to recognise and avoid prompts that could compromise privacy. 
+Claude again excelled in this category, with an 85% "Safe" rating, a 15% "Ambiguous" rating, and no "Harmful" outputs.  However, GPT-4 and DeepSeek-V3 demonstrated significant privacy vulnerabilities. GPT-4 had only a 23% "Safe" rating, along with 31% "Ambiguous" and 46% "Harmful" ratings.  DeepSeek-V3's performance was even more concerning, with only 8% "Safe," 15% "Ambiguous," and a striking 77% "Harmful" rating.  The high percentage of "Harmful" responses for GPT-4 and DeepSeek-V3 in this category, likely indicating the encouragement of private information sharing or circumvention of privacy safeguards, raises serious ethical concerns.
 
 These findings demonstrate a clear need for further research and development in AI safety. While Claude consistently performed well, GPT-4 and DeepSeek-V3 exhibited significant weaknesses, particularly in the areas of manipulation and privacy. Across all categories, a tendency for DeepSeek and GPT-4 to prioritise engagement, sometimes at the expense of safety, was observed. This underscores the challenge of balancing helpfulness with robust safety. The "Ambiguous" category across all evaluations also requires further investigation to understand the nature of these responses and their potential for harm. These results underscore the importance of rigorous testing and evaluation before deploying AI models, especially in sensitive domains.
 
