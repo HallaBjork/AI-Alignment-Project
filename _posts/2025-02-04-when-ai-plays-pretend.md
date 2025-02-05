@@ -75,7 +75,7 @@ These responses were further analysed and categorised according to three key are
 * **Manipulation and Behavioral Influence:** Here, we examined responses that could subtly encourage risky behavior or promote overuse of technology. The goal was to assess whether the AI inadvertently enabled harmful behaviors rather than discouraging them.
 * **Privacy and Oversharing:** This category investigated the AI's guidance on sharing personal information or attempts to circumvent existing safeguards, including parental controls. We aimed to probe the effectiveness of safeguards designed to protect children's privacy.
 
-These prompts were designed to simulate real-world situations where AI alignment failures could directly impact children's safety and decision-making. They are crucial for uncovering vulnerabilities in how AI handles sensitive topics, encourages or discourages risky behavior, and protects children's privacy. The prompts were created with the assistance of LLMs, reflecting the evolving nature of AI interaction. It's important to acknowledge a limitation: the prompts, while designed to simulate child interactions, were created by adults, not children themselves. 
+These prompts were designed to simulate real-world situations where AI alignment failures could directly impact children's safety and decision-making. They are crucial for uncovering vulnerabilities in how AI handles sensitive topics, encourages or discourages risky behavior, and protects children's privacy. The prompts were created and analysed with the assistance of LLMs, reflecting the evolving nature of AI interaction. It's important to acknowledge a limitation: the prompts, while designed to simulate child interactions, were created by adults, not children themselves. 
 
 #### Findings 
 The findings, presented in the tables below, offer a more granular view of the performance of each model across the three categories of potential harm. 
@@ -123,6 +123,7 @@ The findings, presented in the tables below, offer a more granular view of the p
 </table>
 
 In the Misinformation and Factual Errors category, Claude demonstrated the strongest performance with 90% of its responses deemed safe. DeepSeek-V3 followed with 50% safe responses, while GPT-4, despite generally strong safety performance, had the highest rate of harmful responses (10%) and only 50% safe responses. Both Claude and DeepSeek-V3 had 0% harmful responses in this category. This data highlights that even models with good overall safety profiles can struggle with specific types of harmful content, such as factual inaccuracies. 
+Claude demonstrated the strongest performance in this category, achieving a 100% "Safe" rating, with no "Ambiguous" or "Harmful" outputs.  In contrast, both GPT-4 and DeepSeek-V3 had a 70% "Safe" rating and a 30% "Ambiguous" rating, although neither produced any "Harmful" outputs.  While the absence of "Harmful" outputs is positive, the "Ambiguous" category for GPT-4 and DeepSeek-V3 requires further investigation to understand the nature of these potentially misleading or unclear responses.
 
 **Table 2: Manipulation and Behavioral Influence Harm Rates Across Models**
 
@@ -150,9 +151,9 @@ In the Misinformation and Factual Errors category, Claude demonstrated the stron
     </tr>
     <tr>
       <td>Claude</td>
-      <td>0%</td>
-      <td>0%</td>
       <td>100%</td>
+      <td>0%</td>
+      <td>0%</td>
     </tr>
   </tbody>
 </table>
@@ -194,7 +195,7 @@ GPT-4 and DeepSeek-V3 showed higher rates of harmful responses related to manipu
 
 Similar to the Manipulation category, DeepSeek-V3 and GPT-4 showed higher rates of harmful responses regarding privacy. Claude performed best in this category. Again, Claude demonstrated a potentially greater ability to recognise and avoid prompts that could compromise privacy. 
 
-Across all categories, a tendency for DeepSeek and GPT-4 to prioritise engagement, sometimes at the expense of safety, was observed. This underscores the challenge of balancing helpfulness with robust safety. Further research is needed to understand the factors contributing to performance variations and develop strategies for improved safety across all harm areas. 
+These findings demonstrate a clear need for further research and development in AI safety. While Claude consistently performed well, GPT-4 and DeepSeek-V3 exhibited significant weaknesses, particularly in the areas of manipulation and privacy. Across all categories, a tendency for DeepSeek and GPT-4 to prioritise engagement, sometimes at the expense of safety, was observed. This underscores the challenge of balancing helpfulness with robust safety. The "Ambiguous" category across all evaluations also requires further investigation to understand the nature of these responses and their potential for harm. These results underscore the importance of rigorous testing and evaluation before deploying AI models, especially in sensitive domains.
 
 #### Limitations 
 This research, while providing valuable insights, is subject to certain limitations: 
